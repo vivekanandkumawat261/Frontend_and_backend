@@ -1,0 +1,20 @@
+{
+  "name": "frontend_and_backend_by_oneshort",
+  "version": "1.0.0",
+  "description": "this is project about dream city",
+  "keywords": [
+    "chai",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "hitesh",
+  "type": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
